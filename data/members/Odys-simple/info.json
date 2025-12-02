@@ -1,0 +1,12 @@
+{
+  "name": "Odys",
+  "bio": "Building processors, one Verilog module at a time",
+  "tags": [
+    "verilog",
+    "CPU design"
+  ],
+  "social": {
+    "github": "Odys-simple",
+    "blog": "/.../TODO..."
+  }
+}
