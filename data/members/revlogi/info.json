@@ -1,0 +1,9 @@
+{
+  "name": "revlogi", 
+  "bio": "rookie",
+  "tags": ["MacOS", "Python", "Scheme", "Haskell"], 
+  "social": {
+    "github": "RevLogi",
+    "blog": "Under construction..."
+  }
+}
