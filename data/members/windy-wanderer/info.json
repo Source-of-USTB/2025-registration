@@ -1,0 +1,9 @@
+{
+  "name": "钦望", 
+  "bio": "星垂平野阔，月涌大江流",
+  "tags": ["Python", "Java", "ACG"], 
+  "social": {
+    "github": "windy-wanderer",
+    "blog": "https://github.com/windy-wanderer"
+  }
+}
